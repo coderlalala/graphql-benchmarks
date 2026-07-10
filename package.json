@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "analyze": "node analyze.js",
+    "analyze:all": "node run_analyze_script.js",
+    "test": "node --test"
+  }
+}
